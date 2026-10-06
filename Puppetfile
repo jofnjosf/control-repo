@@ -7,6 +7,7 @@ mod 'puppetlabs-apt', '11.4.0'
 mod 'puppetlabs-inifile', '6.5.0'
 mod 'puppetlabs-influxdb', '3.0.1'
 mod 'puppetlabs-stdlib', '9.7.0'
+mod 'puppet-archive', '8.1.0'
 
 
 
